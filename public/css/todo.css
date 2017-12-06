@@ -1,0 +1,18 @@
+.create-section h3 {
+    margin-left: 18px;
+}
+
+.tick {
+    color: #71BA51;
+    font-size: 3em;
+}
+
+.ban {
+    color: #CF000F;
+    font-size: 3em;
+}
+
+.cross {
+    color: #3E4651;
+    font-size: 3em;
+}
